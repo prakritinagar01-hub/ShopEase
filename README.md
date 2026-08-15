@@ -1,10 +1,14 @@
-# 🛍️ ShopEase 
+# 🛍️ ShopEase
 
 ShopEase is a modern and responsive e-commerce frontend website designed to provide a smooth and user-friendly online shopping experience.
 
+## 🚧 Status
+
+**In Progress** — Currently working on the project and adding new features.
+
 ## 🚀 Live Demo
 
-coming soon
+Coming Soon
 
 ## 📌 Features
 
