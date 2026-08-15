@@ -8,7 +8,7 @@ coming soon
 
 ## 📌 Features
 
-- 🛍️ Product listing and product cards.
+- 🛍️ Product listing and product cards
 - 🔎 Search products by name
 - 🏷️ Filter products by category
 - ↕️ Sort products by price/name
