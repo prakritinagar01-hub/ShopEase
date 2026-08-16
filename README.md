@@ -6,16 +6,10 @@ ShopEase is a modern and responsive e-commerce frontend website designed to prov
 
 [View ShopEase Live](https://prakritinagar01-hub.github.io/ShopEase-Modern-E-Commerce-Website/)
 
-## 📌 Project Status
-
-🚧 **Working on it**
-
-The project is currently under development, with more features and improvements planned.
-
 ## ✨ Features
 
 - 🛍️ Modern e-commerce user interface
-- 📦 Product listing
+- 📦 Product listing with multiple products
 - 🔎 Search products by name
 - 🏷️ Filter products by category
 - ↕️ Sort products by price/name
@@ -23,8 +17,8 @@ The project is currently under development, with more features and improvements 
 - ➕ Increase/decrease product quantity
 - ❌ Remove products from cart
 - 💰 Automatic cart total calculation
-- 📱 Responsive design
-- 🎨 Clean and modern UI
+- 📱 Responsive design for desktop, tablet, and mobile
+- 🎨 Clean and modern user interface
 - 📂 Multiple product categories
 - 📧 Newsletter subscription section
 
