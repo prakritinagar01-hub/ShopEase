@@ -8,7 +8,7 @@ ShopEase is a modern and responsive e-commerce frontend website designed to prov
 
 ## ✨ Features
 
-- 🛍️ Modern e-commerce user interface
+- 🛍️ Modern e-commerce user interface.
 - 📦 Product listing with multiple products
 - 🔎 Search products by name
 - 🏷️ Filter products by category
