@@ -4,7 +4,7 @@ ShopEase is a modern and responsive e-commerce frontend website designed to prov
 
 ## 🚀 Live Demo
 
-[View ShopEase Live](https://prakritinagar01-hub.github.io/ShopEase-Modern-E-Commerce-Website/)
+[View ShopEase Live](https://prakritinagar01-hub.github.io/ShopEase/)
 
 ## 📌 Project Status
 
